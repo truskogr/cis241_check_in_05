@@ -1,4 +1,18 @@
-adjective (descriptor): Broad 
+<<<<<<< HEAD
+adjective (descriptor): smelly
+adjective (descriptor): Adorable
+plural noun (person/place/thing):
+a number:
+plural noun (person/place/thing):
+adjective (descriptor):
+proper noun (name of a person/place/thing):
+verb (action word) ending in -ing:
+adjective (descriptor):
+noun (person/place/thing): dog
+adjective (descriptor):
+noun (person/place/thing):
+=======
+adjetive (descriptor): smelly
 adjective (descriptor): Adorable
 plural noun (person/place/thing): Dr. Martin
 a number: 76
@@ -10,3 +24,4 @@ adjective (descriptor): Long
 noun (person/place/thing): Laptop
 adjective (descriptor): Dirty
 noun (person/place/thing): Dog
+>>>>>>> gen

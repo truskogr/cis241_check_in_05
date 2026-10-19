@@ -1,12 +1,12 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): Broad 
+adjective (descriptor): Adorable
+plural noun (person/place/thing): Dr. Martin
+a number: 76
+plural noun (person/place/thing): Blue Connection
+adjective (descriptor): Intimidating
+proper noun (name of a person/place/thing): Toby Fox
+verb (action word) ending in -ing: Diving
+adjective (descriptor): Long
+noun (person/place/thing): Laptop
+adjective (descriptor): Dirty
+noun (person/place/thing): Dog

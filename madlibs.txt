@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 adjective (descriptor): smelly
 adjective (descriptor): Adorable
+=======
+adjective (descriptor): smelly
+adjective (descriptor): 
+>>>>>>> gen
 plural noun (person/place/thing):
 a number:
 plural noun (person/place/thing):

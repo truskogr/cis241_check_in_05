@@ -1,4 +1,4 @@
-adjective (descriptor): 
+adjective (descriptor): smelly
 adjective (descriptor): 
 plural noun (person/place/thing):
 a number:
@@ -7,6 +7,6 @@ adjective (descriptor):
 proper noun (name of a person/place/thing):
 verb (action word) ending in -ing:
 adjective (descriptor):
-noun (person/place/thing):
+noun (person/place/thing): dog
 adjective (descriptor):
 noun (person/place/thing):
